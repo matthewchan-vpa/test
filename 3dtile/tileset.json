@@ -1,0 +1,83 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"gml_id" : {},
+		"citygml_target_uri" : {},
+		"gml_description" : {},
+		"gml_name" : {},
+		"citygml_city_object_member{}.xlink_href" : {},
+		"citygml_appearance_member{}.xlink_href" : {},
+		"gml_feature_member{}.xlink_href" : {},
+		"BLDG_id" : {},
+		"Dwellings" : {},
+		"Est_Job_capacity" : {},
+		"FP_TYPE" : {},
+		"GFA" : {},
+		"GLFA" : {},
+		"LU_CLASS" : {},
+		"LU_SUBTYPE" : {},
+		"LU_TYPE" : {},
+		"Land_Use" : {},
+		"MaxFAR" : {},
+		"MaxStorey" : {},
+		"Storeys" : {},
+		"SubPrecinct" : {},
+		"Total_carparking_spaces" : {},
+		"citygml_address{}.xlink_href" : {},
+		"citygml_appearance{}.xlink_href" : {},
+		"citygml_bounded_by{}.xlink_href" : {},
+		"citygml_class" : {},
+		"citygml_class_codeSpace" : {},
+		"citygml_consists_of_building_part{}.xlink_href" : {},
+		"citygml_creationDate" : {},
+		"citygml_feature_role" : {},
+		"citygml_feature_role_attr_name" : {},
+		"citygml_feature_role_attr_val" : {},
+		"citygml_function{}" : {},
+		"citygml_function{}.codeSpace" : {},
+		"citygml_generalizes_to{}.xlink_href" : {},
+		"citygml_interior_building_installation{}.xlink_href" : {},
+		"citygml_interior_room{}.xlink_href" : {},
+		"citygml_level_of_detail{}" : {},
+		"citygml_measured_height" : {
+			"minimum" : 3,
+			"maximum" : 347.2
+		},
+		"citygml_measured_height_units" : {},
+		"citygml_outer_building_installation{}.xlink_href" : {},
+		"citygml_relative_to_terrain" : {},
+		"citygml_relative_to_water" : {},
+		"citygml_roof_type" : {},
+		"citygml_roof_type_codeSpace" : {},
+		"citygml_storey_heights_above_ground" : {},
+		"citygml_storey_heights_above_ground_units" : {},
+		"citygml_storey_heights_below_ground" : {},
+		"citygml_storey_heights_below_ground_units" : {},
+		"citygml_storeys_above_ground" : {},
+		"citygml_storeys_below_ground" : {},
+		"citygml_terminationDate" : {},
+		"citygml_usage{}" : {},
+		"citygml_usage{}.codeSpace" : {},
+		"citygml_year_of_construction" : {},
+		"citygml_year_of_demolition" : {},
+		"externalReference{}.externalObject.name" : {},
+		"externalReference{}.externalObject.uri" : {},
+		"externalReference{}.informationSystem" : {},
+		"gml_parent_id" : {}
+	},
+	"geometricError" : 206.98011560877785,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -4130448.8488484677, 2898660.639160718, -3887968.8471192103, 488.2246814374812, 0, 0, 0, 817.2140448046848, 0, 0, 0, 917.2352057714015 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -4130448.8488484677, 2898660.639160718, -3887968.8471192103, 488.2246814374812, 0, 0, 0, 817.2140448046848, 0, 0, 0, 917.2352057714015 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}
